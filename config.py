@@ -1,0 +1,5 @@
+sentiment_model_path = "cardiffnlp/twitter-xlm-roberta-base-sentiment"
+language_detection_model_path = "ivanlau/language-detection-fine-tuned-on-xlm-roberta-base"
+fake_news_model_path = "jy46604790/Fake-News-Bert-Detect"
+toxicity_model_path = "EIStakovskii/xlm_roberta_base_multilingual_toxicity_classifier_plus"
+spam_model_path = "svalabs/twitter-xlm-roberta-crypto-spam"

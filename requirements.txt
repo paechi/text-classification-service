@@ -1,0 +1,5 @@
+torch
+transformers[torch]
+sentencepiece
+flask==2.2.2
+protobuf==3.20.0
